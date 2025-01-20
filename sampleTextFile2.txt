@@ -1,3 +1,5 @@
 this is a sample text file
 adding a line for testing
 some changes in master
+some changes
+new code changes
